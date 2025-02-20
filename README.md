@@ -1,4 +1,4 @@
-#  Olá Mundo!!! Eu sou o Juan Obregon
+#  Olá Mundo!!! 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
 🚀 **Buscando Estágio em Desenvolvimento**  
 
